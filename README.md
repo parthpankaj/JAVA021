@@ -1,5 +1,12 @@
-# JAVA021
+
+public class Printname {
+
+	public static void main(String[] args) {
+	if (System.out.printf("Pnkz Pnwar..!") != null) {
+	}
+	}
+}
+	
 
 
-
-not applicable to write the program.help out
+Pnkz Pnwar..!
